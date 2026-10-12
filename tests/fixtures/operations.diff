@@ -1,0 +1,17 @@
+diff --git a/old name.txt b/new name.txt
+similarity index 100%
+rename from old name.txt
+rename to new name.txt
+diff --git a/obsolete.txt b/obsolete.txt
+deleted file mode 100644
+--- a/obsolete.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-obsolete
+-data
+diff --git a/icon.png b/icon.png
+index 1234567..abcdef0 100644
+Binary files a/icon.png and b/icon.png differ
+diff --git a/script.sh b/script.sh
+old mode 100644
+new mode 100755
